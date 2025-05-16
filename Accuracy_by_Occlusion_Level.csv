@@ -1,0 +1,4 @@
+Occlusion_Level,ResNet_Accuracy
+High,0.4176470588235294
+Low,0.5170454545454546
+Medium,0.487012987012987

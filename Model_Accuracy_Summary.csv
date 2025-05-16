@@ -1,0 +1,4 @@
+Model,Accuracy (%)
+ResNet,47.4
+VGG,50.8
+AlexNet,48.6
